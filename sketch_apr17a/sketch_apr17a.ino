@@ -15,7 +15,7 @@ const int IR_RIGHT = A2;
 // Bluetooth
 SoftwareSerial BT(10, 11); // RX, TX
 
-// Променливи
+
 int leftValue, centerValue, rightValue;
 bool manualMode = true;  // Стартово ръчен режим
 
